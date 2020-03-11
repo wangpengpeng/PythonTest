@@ -1,0 +1,13 @@
+.idea
+target
+/.idea/*
+target/
+.class
+.project
+.classpath
+*.eclipse.*
+*.iml
+plugins/
+.vertx/
+bin/nohup.out
+
